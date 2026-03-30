@@ -141,6 +141,9 @@ Employee-Management-System/
 - Employee tracking system   
 
 ---
+## 📊 Dataset
+ 
+- ☁️ External Link: [Download Full Dataset](https://drive.google.com/drive/folders/1jFFJEGioPj2k4hW0MhWi4_6ZveHrh5cX?usp=drive_link)
 
 ## 👨‍💻 Author
 
